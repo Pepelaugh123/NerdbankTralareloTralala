@@ -1,0 +1,42 @@
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.AssemblyInfoInputs.cache
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.AssemblyInfo.cs
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.csproj.CoreCompileInputs.cache
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\bin\Debug\net9.0\NerdbankVersionDemo.exe
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\bin\Debug\net9.0\NerdbankVersionDemo.deps.json
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\bin\Debug\net9.0\NerdbankVersionDemo.runtimeconfig.json
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\bin\Debug\net9.0\NerdbankVersionDemo.dll
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\bin\Debug\net9.0\NerdbankVersionDemo.pdb
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.dll
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\obj\Debug\net9.0\refint\NerdbankVersionDemo.dll
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.pdb
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.genruntimeconfig.cache
+C:\Users\recepce\Desktop\New folder\NerdbankVersionDemo\obj\Debug\net9.0\ref\NerdbankVersionDemo.dll
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\bin\Debug\net9.0\NerdbankVersionDemo.exe
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\bin\Debug\net9.0\NerdbankVersionDemo.deps.json
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\bin\Debug\net9.0\NerdbankVersionDemo.runtimeconfig.json
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\bin\Debug\net9.0\NerdbankVersionDemo.dll
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\bin\Debug\net9.0\NerdbankVersionDemo.pdb
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.AssemblyInfoInputs.cache
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.AssemblyInfo.cs
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.csproj.CoreCompileInputs.cache
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.dll
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\obj\Debug\net9.0\refint\NerdbankVersionDemo.dll
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.pdb
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\obj\Debug\net9.0\NerdbankVersionDemo.genruntimeconfig.cache
+C:\Users\recepce\Desktop\Nerdbankv2\NerdbankVersionDemo\obj\Debug\net9.0\ref\NerdbankVersionDemo.dll
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\bin\Debug\net9.0\NerdbankVersionDemo.exe
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\bin\Debug\net9.0\NerdbankVersionDemo.deps.json
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\bin\Debug\net9.0\NerdbankVersionDemo.runtimeconfig.json
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\bin\Debug\net9.0\NerdbankVersionDemo.dll
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\bin\Debug\net9.0\NerdbankVersionDemo.pdb
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\obj\Debug\net9.0\NerdbankVersionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\obj\Debug\net9.0\NerdbankVersionDemo.AssemblyInfoInputs.cache
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\obj\Debug\net9.0\NerdbankVersionDemo.AssemblyInfo.cs
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\obj\Debug\net9.0\NerdbankVersionDemo.csproj.CoreCompileInputs.cache
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\obj\Debug\net9.0\NerdbankVersionDemo.dll
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\obj\Debug\net9.0\refint\NerdbankVersionDemo.dll
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\obj\Debug\net9.0\NerdbankVersionDemo.pdb
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\obj\Debug\net9.0\NerdbankVersionDemo.genruntimeconfig.cache
+C:\Users\recepce\Desktop\FinalVersionNerdbank-main\obj\Debug\net9.0\ref\NerdbankVersionDemo.dll

@@ -1,0 +1,11 @@
+{
+  "version": "1.2.3",
+  "assemblyVersion": "1.2.3.0",
+  "fileVersion": "1.2.3.0",
+  "semanticVersionFormat": "Prerelease",
+  "publicReleaseRefSpec": [
+    "^refs/heads/main$",
+    "^refs/tags/v\\d+\\.\\d+\\.\\d+$"
+  ],
+  "versionHeightOffset": 1
+}

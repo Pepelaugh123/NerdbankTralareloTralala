@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sksNV70a4X4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\recepce\\Desktop\\FinalVersionNerdbank-main\\NerdbankVersionDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\recepce\\.nuget\\packages\\nerdbank.gitversioning\\3.7.115\\nerdbank.gitversioning.3.7.115.nupkg.sha512"
+  ],
+  "logs": []
+}
